@@ -1,2 +1,2 @@
-# RetroPie-Controllers
-A collaborative project on the documentation of controllers for the RetroPie Project.
+# RetroPie-Artwork
+A collaborative project to create artwork to be used in the RetroPie project.
