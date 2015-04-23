@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" version="1.1" style="stroke:black; stroke-width:1; fill:rgb(100,100,100)" xmlns="http://www.w3.org/2000/svg">
+
+<desc>L and R button</desc>
+<ellipse cx="148" cy="37" rx="109" ry="20" />
+
+<desc>Controller shape</desc>
+<path d="M1 137
+c0 0 1 -18 8 -65
+c0 0 1 -22 29 -35
+c0 0 24 -8 47 -12
+c0 0 7 -20 63 -24
+c0 0 45 1 62 24
+c0 0 25 4 47 12
+c0 0 28 14 29 35
+c0 0 8 65 9 83
+c0 0 2 32 -11 56
+c0 0 -14 24 -29 0
+c0 0 -7 -14 -17 -65
+c0 0 -36 -2 -44 10
+c0 0 -31 130 -47 127
+c0 0 -15 3 -46 -126
+c0 0 -6 -13 -45 -11
+c0 0 -9 51 -16 65
+c0 0 -15 25 -29 0
+c0 0 -9 -23 -11 -55
+Z" style="fill:rgb(175,175,175)"/>
+
+<desc>D-Pad</desc>
+<circle cx="53" cy="84" r="32" style="fill-opacity:0.3;stroke-width:0"/>
+<polygon points="28,77 45,77 45,60 60,60 60,77 77,77 77,92 60,92 60,109 45,109 45,92 28,92" 
+style="fill:rgb(150,150,150)" />
+<polygon points="31,84 38,81 38,88" style="opacity:0.5;stroke-width:0"/>
+<polygon points="48,70 52,63 56,70" style="opacity:0.5;stroke-width:0"/>
+<polygon points="67,81 67,88 74,85" style="opacity:0.5;stroke-width:0"/>
+<polygon points="49,99 53,105 57,99" style="opacity:0.5;stroke-width:0"/>
+<circle cx="52" cy="84" r="4" style="opacity:0.5;stroke-width:0"/>
+
+<desc>A, B and Start Button</desc>
+<line x1="197" y1="88" x2="210" y2="111" style="stroke-opacity:0.3"/>
+<circle cx="148" cy="92" r="11" style="fill:red"/>
+<circle cx="197" cy="88" r="11" style="fill:green"/>
+<circle cx="210" cy="111" r="11" style="fill:blue"/>
+
+<desc>C-Buttons</desc>
+<circle cx="242" cy="71" r="24" style="stroke-opacity:0.4;fill-opacity:0" />
+<circle cx="222" cy="71" r="11" style="fill:rgb(241,231,14)"/>
+<circle cx="242" cy="50" r="11" style="fill:rgb(241,231,14)"/>
+<circle cx="262" cy="71" r="11" style="fill:rgb(241,231,14)"/>
+<circle cx="242" cy="91" r="11" style="fill:rgb(241,231,14)"/>
+
+<desc>Analog Stick</desc>
+<circle cx="148" cy="152" r="33" />
+<polygon points="126,152 134,137 148,130 163,137 170,152 163,167 148,174 134,167" style="fill:rgb(75,75,75)"/>
+<circle cx="148" cy="152" r="15" style="fill:rgb(200,200,200);stroke:white"/>
+<circle cx="148" cy="152" r="11" style="fill:rgb(200,200,200);stroke:gray"/>
+<circle cx="148" cy="152" r="7" style="fill:rgb(200,200,200);stroke:gray"/>
+<circle cx="148" cy="152" r="3" style="fill:rgb(200,200,200);stroke:gray"/>
+
+</svg>
