@@ -54,6 +54,7 @@ redminimalistic	             roman
 retro	                     avatar2200
 retro-collage	             IIeBoy
 retrogamestation	         starmo
+retropie-defender	         rookervik
 retropie-of-rage	         rookervik
 retropie-sonic	             rookervik
 retropieproject	             Florian
