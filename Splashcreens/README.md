@@ -63,6 +63,7 @@ rgs	                         scottydelicious
 rixbox3000	                 wrichards
 rp	                         noobian
 sies	                     johnnyo
+shining-force	             rookervik
 smoked	                     akasol
 snes-controller	             dalecoop
 snes-mushberry	             Zephy
