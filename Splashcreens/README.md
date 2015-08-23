@@ -48,6 +48,7 @@ pixelated-lcd	             strdr
 pixelated-white	             strdr
 Polystation	                 explodr
 pspsplashretropie	         lallek
+punchout	                 rookervik
 raspberryred	             fzero
 raspberryredscanline	     ZeBlob
 redminimalistic	             roman
@@ -73,6 +74,7 @@ sonic-rpi	                 roquen
 SonicRetropie	             foob
 speccypi	                 fzero
 super-metroid	             rookervik
+super-punchout	             rookervik
 super-retropie-2	         lord-zip
 super-street-fighter	     rookervik
 supermeatpi	                 foob
