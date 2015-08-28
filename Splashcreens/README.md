@@ -57,6 +57,8 @@ retrogamestation	         starmo
 retropie-defender	         rookervik
 retropie-of-rage	         rookervik
 retropie-sonic	             rookervik
+smrpg	                     rookervik
+chronotrigger	             rookervik
 retropieproject	             Florian
 retropieproject2014	         nosifone
 retrotwo	                 avatar2200
