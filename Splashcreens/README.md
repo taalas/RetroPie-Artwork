@@ -20,7 +20,9 @@ console-stripe	             jrdbnsn
 control-it	                 taalas
 controller	                 fzero
 dark-grey	                 roquen
+donkeykong				     tpr70		
 dpad	                     fzero
+earthbound                   lilbud
 evolution	                 evoion44
 far-cry	                     royenroy
 go-to-10	                 mkdir
