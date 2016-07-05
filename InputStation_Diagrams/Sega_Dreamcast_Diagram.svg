@@ -14,7 +14,7 @@
    width="1920"
    height="1080"
    id="svg3726"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="Sega_Dreamcast_Diagram.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -25,15 +25,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-width="1680"
+     inkscape:window-height="984"
      id="namedview29"
      showgrid="false"
-     inkscape:zoom="0.33199906"
-     inkscape:cx="849.93685"
-     inkscape:cy="698.28805"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.66399812"
+     inkscape:cx="1103.0035"
+     inkscape:cy="801.17159"
+     inkscape:window-x="-8"
+     inkscape:window-y="142"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3726"
      inkscape:snap-global="true"
@@ -4334,8 +4334,8 @@
       <rect
          style="opacity:0.98999999;fill:#efefef;fill-opacity:1;stroke:#777777;stroke-width:3.32236528;stroke-linejoin:miter;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3010-7"
-         width="476.82318"
-         height="105.83241"
+         width="511.97076"
+         height="105.83242"
          x="449.21661"
          y="72.367378"
          ry="14.809893"
@@ -4367,7 +4367,7 @@
            x="602.39124"
            y="142.09831"
            style="font-style:normal;font-weight:300;-inkscape-font-specification:'Open Sans Light, Light';fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:2.35061932;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="tspan7102">LEFT BOTTOM</tspan></text>
+           id="tspan7102">LEFT SHOULDER</tspan></text>
     </g>
     <g
        transform="matrix(0.77127653,0,0,0.77127653,59.745128,51.682016)"
@@ -4375,8 +4375,8 @@
       <rect
          style="opacity:0.98999999;fill:#efefef;fill-opacity:1;stroke:#777777;stroke-width:3.43679309;stroke-linejoin:miter;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3010-7-1"
-         width="510.78629"
-         height="105.71798"
+         width="543.9812"
+         height="105.71799"
          x="1233.057"
          y="72.424591"
          ry="14.793881"
@@ -4409,7 +4409,7 @@
            x="1386.6206"
            y="142.09831"
            style="font-style:normal;font-weight:300;-inkscape-font-specification:'Open Sans Light, Light';fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:2.35061932;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="tspan7102-7">RIGHT BOTTOM</tspan></text>
+           id="tspan7102-7">RIGHT SHOULDER</tspan></text>
     </g>
   </g>
 </svg>
