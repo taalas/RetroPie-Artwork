@@ -14,8 +14,8 @@
    width="1920"
    height="1080"
    id="svg3726"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="3dodiagram.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="GoldStar_3DO_Diagram.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="988"
+     inkscape:window-height="984"
      id="namedview29"
      showgrid="false"
      inkscape:zoom="0.46951757"
-     inkscape:cx="858.80075"
+     inkscape:cx="525.47989"
      inkscape:cy="574.37502"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="142"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3726"
      inkscape:snap-global="true"
@@ -1309,7 +1309,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1945,10 +1945,10 @@
            ry="11.422523"
            y="72.367378"
            x="449.21661"
-           height="105.83241"
-           width="476.82318"
+           height="105.83242"
+           width="510.90073"
            id="rect3010-7"
-           style="opacity:0.98999999;fill:#efefef;fill-opacity:1;stroke:#777777;stroke-width:3.32236528;stroke-linejoin:miter;stroke-miterlimit:32.40000153;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+           style="opacity:0.98999999;fill:#efefef;fill-opacity:1;stroke:#777777;stroke-width:3.32236528;stroke-linejoin:miter;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <g
            transform="matrix(3.5449341,0,0,3.5449341,453.98326,59.595952)"
            id="g7041">
@@ -1970,13 +1970,13 @@
            id="text3878-1"
            y="142.09831"
            x="602.39124"
-           style="font-size:47.01238251px;font-style:normal;font-weight:300;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#777777;stroke-width:2.35061932;stroke-miterlimit:32.40000153;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Open Sans Light;-inkscape-font-specification:'Open Sans Light, Light'"
+           style="font-style:normal;font-weight:300;font-size:47.01238251px;line-height:125%;font-family:'Open Sans Light';-inkscape-font-specification:'Open Sans Light, Light';letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#777777;stroke-width:2.35061932;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            xml:space="preserve"><tspan
              id="tspan7102"
-             style="font-style:normal;font-weight:300;fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:2.35061932;stroke-miterlimit:32.40000153;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-font-specification:'Open Sans Light, Light'"
+             style="font-style:normal;font-weight:300;-inkscape-font-specification:'Open Sans Light, Light';fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:2.35061932;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              y="142.09831"
              x="602.39124"
-             sodipodi:role="line">LEFT BOTTOM</tspan></text>
+             sodipodi:role="line">LEFT SHOULDER</tspan></text>
       </g>
     </g>
     <g
@@ -1995,10 +1995,10 @@
            ry="11.410173"
            y="72.424591"
            x="1233.057"
-           height="105.71798"
-           width="510.78629"
+           height="105.71799"
+           width="549.12347"
            id="rect3010-7-1"
-           style="opacity:0.98999999;fill:#efefef;fill-opacity:1;stroke:#777777;stroke-width:3.43679309;stroke-linejoin:miter;stroke-miterlimit:32.40000153;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+           style="opacity:0.98999999;fill:#efefef;fill-opacity:1;stroke:#777777;stroke-width:3.43679309;stroke-linejoin:miter;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <g
            transform="matrix(3.5449394,0,0,3.54492,1242.0262,59.596214)"
            id="g7072">
@@ -2021,13 +2021,13 @@
            id="text3878-1-2"
            y="142.09831"
            x="1386.6206"
-           style="font-size:47.01238251px;font-style:normal;font-weight:300;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#777777;stroke-width:2.35061932;stroke-miterlimit:32.40000153;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Open Sans Light;-inkscape-font-specification:'Open Sans Light, Light'"
+           style="font-style:normal;font-weight:300;font-size:47.01238251px;line-height:125%;font-family:'Open Sans Light';-inkscape-font-specification:'Open Sans Light, Light';letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#777777;stroke-width:2.35061932;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            xml:space="preserve"><tspan
              id="tspan7102-7"
-             style="font-style:normal;font-weight:300;fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:2.35061932;stroke-miterlimit:32.40000153;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-font-specification:'Open Sans Light, Light'"
+             style="font-style:normal;font-weight:300;-inkscape-font-specification:'Open Sans Light, Light';fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:2.35061932;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              y="142.09831"
              x="1386.6206"
-             sodipodi:role="line">RIGHT BOTTOM</tspan></text>
+             sodipodi:role="line">RIGHT SHOULDER</tspan></text>
       </g>
     </g>
     <g

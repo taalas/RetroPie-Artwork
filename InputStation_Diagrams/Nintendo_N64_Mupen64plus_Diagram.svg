@@ -14,8 +14,8 @@
    width="2076.552"
    height="1006.4357"
    id="svg3726"
-   inkscape:version="0.91 r"
-   sodipodi:docname="mupen64plus_Diagram.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Nintendo_N64_Mupen64plus_Diagram.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,15 +25,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-width="1680"
+     inkscape:window-height="984"
      id="namedview29"
      showgrid="false"
-     inkscape:zoom="0.33199906"
-     inkscape:cx="345.04095"
-     inkscape:cy="699.87893"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.46951757"
+     inkscape:cx="1082.1278"
+     inkscape:cy="495.44787"
+     inkscape:window-x="-8"
+     inkscape:window-y="142"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3726"
      inkscape:snap-global="true"
@@ -1549,14 +1549,14 @@
      inkscape:connector-curvature="0" />
   <g
      id="g8315"
-     transform="translate(-344.85737,-70.706187)">
+     transform="translate(-274.07404,-70.706187)">
     <rect
        rx="12.669197"
        ry="11.410173"
        y="72.424591"
        x="1233.057"
-       height="105.71798"
-       width="510.78629"
+       height="105.71799"
+       width="554.46106"
        id="rect3010-7-1"
        style="opacity:0.98999999;fill:#efefef;fill-opacity:1;stroke:#777777;stroke-width:3.43679309;stroke-linejoin:miter;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
@@ -1587,7 +1587,7 @@
          style="font-style:normal;font-weight:300;-inkscape-font-specification:'Open Sans Light, Light';fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:2.35061932;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          y="142.09831"
          x="1386.6206"
-         sodipodi:role="line">RIGHT BOTTOM</tspan></text>
+         sodipodi:role="line">RIGHT SHOULDER</tspan></text>
   </g>
   <path
      style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotM-1-74-6)"
@@ -2194,8 +2194,8 @@
        ry="11.45991"
        y="684.00543"
        x="114.96957"
-       height="106.17882"
-       width="381.32654"
+       height="106.17883"
+       width="458.134"
        id="rect3010-7-4"
        style="opacity:0.98999999;fill:#efefef;fill-opacity:1;stroke:#777777;stroke-width:2.97595811;stroke-linejoin:miter;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
@@ -2225,7 +2225,7 @@
          style="font-style:normal;font-weight:300;-inkscape-font-specification:'Open Sans Light, Light';fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:2.35061932;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          y="753.90955"
          x="268.31741"
-         sodipodi:role="line">LEFT TOP</tspan></text>
+         sodipodi:role="line">LEFT TRIGGER</tspan></text>
   </g>
   <path
      inkscape:connector-curvature="0"
@@ -2388,8 +2388,8 @@
        ry="11.422523"
        y="72.367378"
        x="449.21661"
-       height="105.83241"
-       width="476.82318"
+       height="105.83242"
+       width="519.4201"
        id="rect3010-7"
        style="opacity:0.98999999;fill:#efefef;fill-opacity:1;stroke:#777777;stroke-width:3.32236528;stroke-linejoin:miter;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
@@ -2419,6 +2419,6 @@
          style="font-style:normal;font-weight:300;-inkscape-font-specification:'Open Sans Light, Light';fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:2.35061932;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          y="142.09831"
          x="602.39124"
-         sodipodi:role="line">LEFT BOTTOM</tspan></text>
+         sodipodi:role="line">LEFT SHOULDER</tspan></text>
   </g>
 </svg>
